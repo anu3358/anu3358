@@ -1,3 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200">
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B993D6" />
+      <stop offset="100%" stop-color="#8CA6DB" />
+    </linearGradient>
+  </defs>
+  <rect width="854" height="200" fill="url(#linear)" opacity="0.6"/>
+  <text text-anchor="middle" x="50%" y="50%" dominant-baseline="middle"
+        font-size="70" font-weight="700" fill="#f7f5f5"
+        font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+    Welcome to my profile!
+  </text>
+</svg>
+
  <h1>👋 WELCOME TO MY PROFILE</h1>
 </body>
 </html>
