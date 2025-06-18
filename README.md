@@ -1,10 +1,4 @@
-git add assets/welcome-banner.svg
-git commit -m "Add colorful welcome banner"
-git push
-![Welcome](./assets/welcome-banner.svg)
-
-
- <h1>👋 WELCOME TO MY PROFILE</h1>
+  <h1>👋 WELCOME TO MY PROFILE</h1>
 </body>
 </html>
               
