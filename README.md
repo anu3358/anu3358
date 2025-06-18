@@ -31,7 +31,7 @@
             <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" > Welcome to my profile!</text>
 
 </svg>
-        
+                
 - <h1 align="center">Hey!! 👋, I'm Anurag an intuitive AI & Machine learner</h1>
 <h3 align="center">Convert coffee into code and ideas into Decisions(anyhow but speciality)</h3>
 
