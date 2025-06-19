@@ -1,6 +1,3 @@
-![](assets/Bottom_up.svg)
-
-<!--   my-icons -->
 <h1 align="center">
   >Hello World!
 </h1>
