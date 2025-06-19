@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://ibb.co/35MXtzW6">
-    <img src="https://i.ibb.co/ZRYsymK4/17265146743911.jpg" alt="ANURAG SAINI" style="width:100%; max-width:100%;" />
-  </a>
-</div>
-
 <h1 align="center">
   >Hello World!
 </h1>
