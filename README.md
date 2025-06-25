@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **My Profession**
 
-- 📫 How to reach me **anuragsaini3358@gmail.com| linkedin.com/in/anurag-saini-a7361136b
+- 📫 How to reach me **anuragsaini3358@gmail.com| https://www.linkedin.com/in/anurag-saini-91195736a
  
 
   <h2 align="left">
